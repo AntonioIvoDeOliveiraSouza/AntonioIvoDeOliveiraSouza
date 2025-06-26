@@ -5,4 +5,4 @@
 - 🎮 Follow me on Itch.io: https://ivo05.itch.io/
 
 - Eu me chamo Antonio Ivo de Oliveira Souza, estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal do Piauí - Campus Parnaíba.
-- Tenho como interesse áreas relacionadas à jogos, assim como em outras áreas relacionadas ao desenvolvimento de software - cujo foco centra-se em aprender mais a respeito de códigos
+- Tenho como interesse áreas relacionadas à jogos e automação, assim como em outras áreas relacionadas ao desenvolvimento de software - cujo foco centra-se em aprender mais a respeito de códigos
